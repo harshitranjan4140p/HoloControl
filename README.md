@@ -1,6 +1,7 @@
 HoloControl Wired (Under Developement)
 
 Major issue :- Too much latency because of transferring live feed 2 times over the network
+
 Potential solution :- Turn everything offline using USB cables
 
 =================
