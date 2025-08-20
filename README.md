@@ -1,6 +1,9 @@
-HoloControl Wired
-=================
+HoloControl Wired (Under Developement)
 
+Major issue :- Too much latency because of transferring live feed 2 times over the network
+Potential solution :- Turn everything offline using USB cables
+
+=================
 This project creates a hand-gesture controlled HUD for Windows using OpenCV, Mediapipe, and MSS.
 It captures your desktop screen and overlays it on top of your webcam feed.
 Using a finger pinch gesture (thumb + index), you can toggle the HUD (show/hide).
